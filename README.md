@@ -1,4 +1,4 @@
-hacer - practice Spanish verb conjugations
+hacer
 =====
 
 hacer is a simple command-line-based quiz game for learning Spanish verb
